@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  postgres:
+    container_name: threadit-postgres
+    image: postgres
+    ports:
+      - 5433:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: theadit
+      POSTGRES_DB: threadit-db
+      PGDATA: /data/postgres
+    volumes:
+      - ./data/pg:/data/postgres
