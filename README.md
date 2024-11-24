@@ -30,9 +30,10 @@
 - **Vitest**: Testes rápidos e eficazes.
 - **PostgreSQL**: Banco de dados confiável.
 - **TypeScript**: Superset JavaScript que adiciona tipagem estática à linguagem.
-- **Docker**: - Plataforma para facilitar o desenvolvimento, implantação e execução de aplicações usando containers.
-- **Redis**: - Banco de dados em memória de código aberto.
-- **Vitest**:Ferramenta de testes rápidos e simples para projetos Javascript.
+- **Docker**: Plataforma para facilitar o desenvolvimento, implantação e execução de aplicações usando containers.
+- **Redis**: Banco de dados em memória de código aberto.
+- **Vitest**: Ferramenta de testes rápidos e simples para projetos Javascript.
+- **RS256**:  
 
 ---
 
